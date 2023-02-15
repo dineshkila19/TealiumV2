@@ -1,0 +1,220 @@
+2023-02/01 16:53:55 INFO  Log:11 - ================verifyMyLogo TEST START 
+2023-02/01 16:53:55 INFO  Log:21 - Tealium logo is validated
+2023-02/01 16:59:09 INFO  Log:11 - ================loginTest TEST START ===================
+2023-02/01 16:59:09 INFO  Log:21 - User is going to Click on Account
+2023-02/01 16:59:20 INFO  Log:21 - Enter Email and Password
+2023-02/01 16:59:43 INFO  Log:21 - Verifying User is able to Login 
+2023-02/01 17:01:56 INFO  Log:11 - ================loginTest TEST START ===================
+2023-02/01 17:01:56 INFO  Log:21 - User is going to Click on Account
+2023-02/01 17:01:56 INFO  Log:21 - Enter Email and Password
+2023-02/01 17:01:59 INFO  Log:21 - Verifying User is able to Login 
+2023-02/01 17:01:59 INFO  Log:21 - Login is Success
+2023-02/01 17:01:59 INFO  Log:15 - ================loginTest TEST END ====================
+2023-02/01 18:06:54 INFO  Log:11 - ================loginTealium TEST START ===================
+2023-02/01 18:06:54 INFO  Log:21 - Click on Account to Create an Account
+2023-02/01 18:06:55 INFO  Log:21 - Before creating account we click create account btn
+2023-02/01 18:07:57 INFO  Log:11 - ================loginTealium TEST START ===================
+2023-02/01 18:07:57 INFO  Log:21 - Click on Account to Create an Account
+2023-02/01 18:07:58 INFO  Log:21 - Before creating account we click create account btn
+2023-02/01 18:08:21 INFO  Log:21 - enter Firstname 
+2023-02/01 18:08:45 INFO  Log:21 - enter Middlename
+2023-02/01 18:08:45 INFO  Log:21 - enter Lastname
+2023-02/01 18:08:45 INFO  Log:21 - enter Valid Email
+2023-02/01 18:08:45 INFO  Log:21 - enter valid Password
+2023-02/01 18:08:45 INFO  Log:21 - enter valid confirm Password
+2023-02/01 18:08:46 INFO  Log:21 - Before Creating Account we Click Check Box
+2023-02/01 18:08:46 INFO  Log:21 - Succesfully Created Account
+2023-02/01 18:08:46 INFO  Log:15 - ================loginTealium TEST END ====================
+2023-02/01 18:12:48 INFO  Log:11 - ================HomePageTest TEST START ===================
+2023-02/01 18:12:48 INFO  Log:21 - Click on Account to login
+2023-02/01 18:12:48 INFO  Log:21 - Successfully entered Valid Email and Password
+2023-02/01 18:15:08 INFO  Log:11 - ================HomePageTest TEST START ===================
+2023-02/01 18:15:08 INFO  Log:21 - Click on Account to login
+2023-02/01 18:15:08 INFO  Log:21 - Successfully entered Valid Email and Password
+2023-02/01 18:16:28 INFO  Log:11 - ================HomePageTest TEST START ===================
+2023-02/01 18:16:28 INFO  Log:21 - Click on Account to login
+2023-02/01 18:16:28 INFO  Log:21 - Successfully entered Valid Email and Password
+2023-02/02 11:11:17 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/02 11:11:18 INFO  Log:21 - Tealium logo is validated
+2023-02/02 11:14:48 INFO  Log:11 - ================HomePageTest TEST START ===================
+2023-02/02 11:14:48 INFO  Log:21 - Click on Account to login
+2023-02/02 12:00:39 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/02 12:00:39 INFO  Log:21 - Tealium logo is validated
+2023-02/02 12:01:53 INFO  Log:11 - ================loginTest TEST START ===================
+2023-02/02 12:01:53 INFO  Log:21 - User is going to Click on Account
+2023-02/02 12:01:53 INFO  Log:21 - Enter Email and Password
+2023-02/02 12:02:17 INFO  Log:21 - Verifying User is able to Login 
+2023-02/02 12:02:17 INFO  Log:21 - Login is Success
+2023-02/02 12:02:17 INFO  Log:15 - ================loginTest TEST END ====================
+2023-02/02 12:02:49 INFO  Log:11 - ================HomePageTest TEST START ===================
+2023-02/02 12:02:49 INFO  Log:21 - Click on Account to login
+2023-02/02 12:06:01 INFO  Log:11 - ================loginTealium TEST START ===================
+2023-02/02 12:06:01 INFO  Log:21 - Click on Account to Create an Account
+2023-02/02 12:06:02 INFO  Log:21 - Before creating account we click create account btn
+2023-02/02 12:07:07 INFO  Log:11 - ================loginTest TEST START ===================
+2023-02/02 12:07:07 INFO  Log:21 - User is going to Click on Account
+2023-02/02 12:07:18 INFO  Log:21 - Enter Email and Password
+2023-02/02 12:07:42 INFO  Log:21 - Verifying User is able to Login 
+2023-02/02 12:07:42 INFO  Log:21 - Login is Success
+2023-02/02 12:07:42 INFO  Log:15 - ================loginTest TEST END ====================
+2023-02/02 12:23:25 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/02 12:23:25 INFO  Log:21 - Tealium logo is validated
+2023-02/02 12:25:06 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/02 12:25:07 INFO  Log:21 - Tealium logo is validated
+2023-02/02 12:25:07 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/02 12:28:02 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/02 12:28:03 INFO  Log:21 - Tealium logo is validated
+2023-02/02 12:28:04 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/02 12:28:28 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/02 12:28:28 INFO  Log:21 - Tealium logo is validated
+2023-02/02 12:28:28 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/02 12:31:01 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/02 12:31:01 INFO  Log:21 - Tealium logo is validated
+2023-02/02 12:31:01 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/02 12:46:13 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/02 12:46:13 INFO  Log:21 - Tealium logo is validated
+2023-02/02 12:46:13 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/02 12:54:57 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/02 12:54:57 INFO  Log:21 - Tealium logo is validated
+2023-02/02 12:54:57 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/07 11:59:54 INFO  Log:11 - ================HomePageTest TEST START ===================
+2023-02/07 11:59:54 INFO  Log:21 - Click on Account to login
+2023-02/07 12:00:05 INFO  Log:21 - Successfully entered Valid Email and Password
+2023-02/07 12:00:29 INFO  Log:21 - Enter Product name like LOAFER
+2023-02/07 12:00:29 INFO  Log:15 - ================HomePageTest TEST END ====================
+2023-02/07 14:09:03 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/07 14:09:03 INFO  Log:21 - Tealium logo is validated
+2023-02/07 14:09:03 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/07 14:10:56 INFO  Log:11 - ================HomePageTest TEST START ===================
+2023-02/07 14:10:56 INFO  Log:21 - Click on Account to login
+2023-02/07 14:10:56 INFO  Log:21 - Successfully entered Valid Email and Password
+2023-02/07 14:16:30 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/07 14:16:30 INFO  Log:21 - Tealium logo is validated
+2023-02/07 14:16:31 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/07 14:18:23 INFO  Log:11 - ================loginTest TEST START ===================
+2023-02/07 14:18:23 INFO  Log:21 - User is going to Click on Account
+2023-02/07 14:18:24 INFO  Log:21 - Enter Email and Password
+2023-02/07 14:19:33 INFO  Log:11 - ================HomePageTest TEST START ===================
+2023-02/07 14:19:33 INFO  Log:21 - Click on Account to login
+2023-02/07 14:19:33 INFO  Log:21 - Successfully entered Valid Email and Password
+2023-02/07 14:21:53 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/07 14:21:53 INFO  Log:21 - Tealium logo is validated
+2023-02/07 14:21:53 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/07 14:23:15 INFO  Log:11 - ================loginTest TEST START ===================
+2023-02/07 14:23:15 INFO  Log:21 - User is going to Click on Account
+2023-02/07 14:23:16 INFO  Log:21 - Enter Email and Password
+2023-02/07 14:24:47 INFO  Log:11 - ================HomePageTest TEST START ===================
+2023-02/07 14:24:47 INFO  Log:21 - Click on Account to login
+2023-02/07 14:24:57 INFO  Log:21 - Successfully entered Valid Email and Password
+2023-02/07 14:25:21 INFO  Log:21 - Enter Product name like LOAFER
+2023-02/07 14:25:21 INFO  Log:15 - ================HomePageTest TEST END ====================
+2023-02/07 15:13:57 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/07 15:13:57 INFO  Log:21 - Tealium logo is validated
+2023-02/07 15:13:58 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/07 15:14:35 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/07 15:14:35 INFO  Log:21 - Tealium logo is validated
+2023-02/07 15:14:35 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/07 15:18:58 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/07 15:18:58 INFO  Log:21 - Tealium logo is validated
+2023-02/07 15:18:58 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/07 15:19:31 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/07 15:19:31 INFO  Log:21 - Tealium logo is validated
+2023-02/07 15:19:31 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/07 15:20:11 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/07 15:20:11 INFO  Log:21 - Tealium logo is validated
+2023-02/07 15:20:11 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/07 15:22:01 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/07 15:22:01 INFO  Log:21 - Tealium logo is validated
+2023-02/07 15:22:01 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/07 15:23:21 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/07 15:23:21 INFO  Log:21 - Tealium logo is validated
+2023-02/07 15:23:21 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/07 15:30:01 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/07 15:30:01 INFO  Log:21 - Tealium logo is validated
+2023-02/07 15:30:01 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/07 15:30:02 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/07 15:30:03 INFO  Log:21 - Tealium logo is validated
+2023-02/07 15:30:03 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/07 15:30:04 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/07 15:30:04 INFO  Log:21 - Tealium logo is validated
+2023-02/07 15:30:04 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/07 15:33:06 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/07 15:33:06 INFO  Log:21 - Tealium logo is validated
+2023-02/07 15:33:07 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/07 15:33:09 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/07 15:33:09 INFO  Log:21 - Tealium logo is validated
+2023-02/07 15:33:10 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/08 14:22:33 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/08 14:22:33 INFO  Log:21 - Tealium logo is validated
+2023-02/08 14:22:33 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/08 14:23:36 INFO  Log:11 - ================loginTest TEST START ===================
+2023-02/08 14:23:36 INFO  Log:21 - User is going to Click on Account
+2023-02/08 14:24:08 INFO  Log:11 - ================HomePageTest TEST START ===================
+2023-02/08 14:24:08 INFO  Log:21 - Click on Account to login
+2023-02/08 15:42:51 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/08 15:42:51 INFO  Log:21 - Tealium logo is validated
+2023-02/08 15:42:52 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/08 15:43:52 INFO  Log:11 - ================loginTest TEST START ===================
+2023-02/08 15:43:52 INFO  Log:21 - User is going to Click on Account
+2023-02/08 15:44:23 INFO  Log:11 - ================HomePageTest TEST START ===================
+2023-02/08 15:44:23 INFO  Log:21 - Click on Account to login
+2023-02/09 11:37:26 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/09 11:37:26 INFO  Log:21 - Tealium logo is validated
+2023-02/09 11:37:26 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/09 11:37:58 INFO  Log:11 - ================loginTest TEST START ===================
+2023-02/09 11:37:58 INFO  Log:21 - User is going to Click on Account
+2023-02/09 11:37:59 INFO  Log:21 - Enter Email and Password
+2023-02/09 11:39:27 INFO  Log:11 - ================HomePageTest TEST START ===================
+2023-02/09 11:39:27 INFO  Log:21 - Click on Account to login
+2023-02/09 11:47:17 INFO  Log:11 - ================loginTealium TEST START ===================
+2023-02/09 11:47:17 INFO  Log:21 - Click on Account to Create an Account
+2023-02/09 11:47:18 INFO  Log:21 - Before creating account we click create account btn
+2023-02/09 11:47:41 INFO  Log:21 - enter Firstname 
+2023-02/09 11:48:04 INFO  Log:21 - enter Middlename
+2023-02/09 11:48:04 INFO  Log:21 - enter Lastname
+2023-02/09 11:48:04 INFO  Log:21 - enter Valid Email
+2023-02/09 11:48:05 INFO  Log:21 - enter valid Password
+2023-02/09 11:48:05 INFO  Log:21 - enter valid confirm Password
+2023-02/09 11:48:05 INFO  Log:21 - Before Creating Account we Click Check Box
+2023-02/09 11:48:06 INFO  Log:21 - Succesfully Created Account
+2023-02/09 11:48:06 INFO  Log:15 - ================loginTealium TEST END ====================
+2023-02/09 11:49:32 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/09 11:49:32 INFO  Log:21 - Tealium logo is validated
+2023-02/09 11:49:32 INFO  Log:15 - ================verifyMyLogo TEST END ====================
+2023-02/09 11:50:20 INFO  Log:11 - ================loginTest TEST START ===================
+2023-02/09 11:50:20 INFO  Log:21 - User is going to Click on Account
+2023-02/09 11:50:21 INFO  Log:21 - Enter Email and Password
+2023-02/09 11:50:44 INFO  Log:21 - Verifying User is able to Login 
+2023-02/09 11:50:44 INFO  Log:21 - Login is Success
+2023-02/09 11:50:44 INFO  Log:15 - ================loginTest TEST END ====================
+2023-02/09 11:51:24 INFO  Log:11 - ================HomePageTest TEST START ===================
+2023-02/09 11:51:24 INFO  Log:21 - Click on Account to login
+2023-02/09 11:51:25 INFO  Log:21 - Successfully entered Valid Email and Password
+2023-02/09 11:51:48 INFO  Log:21 - Enter Product name like LOAFER
+2023-02/09 11:51:48 INFO  Log:15 - ================HomePageTest TEST END ====================
+2023-02/09 12:05:11 INFO  Log:11 - ================loginTealium TEST START ===================
+2023-02/09 12:05:11 INFO  Log:21 - Click on Account to Create an Account
+2023-02/09 12:05:12 INFO  Log:21 - Before creating account we click create account btn
+2023-02/09 12:05:35 INFO  Log:21 - enter Firstname 
+2023-02/09 12:05:58 INFO  Log:21 - enter Middlename
+2023-02/09 12:05:58 INFO  Log:21 - enter Lastname
+2023-02/09 12:05:58 INFO  Log:21 - enter Valid Email
+2023-02/09 12:05:58 INFO  Log:21 - enter valid Password
+2023-02/09 12:05:59 INFO  Log:21 - enter valid confirm Password
+2023-02/09 12:05:59 INFO  Log:21 - Before Creating Account we Click Check Box
+2023-02/09 12:05:59 INFO  Log:21 - Succesfully Created Account
+2023-02/09 12:05:59 INFO  Log:15 - ================loginTealium TEST END ====================
+2023-02/09 12:06:31 INFO  Log:11 - ================loginTest TEST START ===================
+2023-02/09 12:06:31 INFO  Log:21 - User is going to Click on Account
+2023-02/09 12:08:24 INFO  Log:11 - ================loginTealium TEST START ===================
+2023-02/09 12:08:24 INFO  Log:21 - Click on Account to Create an Account
+2023-02/09 12:08:24 INFO  Log:21 - Before creating account we click create account btn
+2023-02/09 12:11:18 INFO  Log:11 - ================loginTest TEST START ===================
+2023-02/09 12:11:18 INFO  Log:21 - User is going to Click on Account
+2023-02/09 12:11:29 INFO  Log:21 - Enter Email and Password
+2023-02/09 12:11:53 INFO  Log:21 - Verifying User is able to Login 
+2023-02/09 12:11:53 INFO  Log:21 - Login is Success
+2023-02/09 12:11:53 INFO  Log:15 - ================loginTest TEST END ====================
+2023-02/09 13:29:52 INFO  Log:11 - ================verifyMyLogo TEST START ===================
+2023-02/09 13:29:52 INFO  Log:21 - Tealium logo is validated
+2023-02/09 13:29:52 INFO  Log:15 - ================verifyMyLogo TEST END ====================

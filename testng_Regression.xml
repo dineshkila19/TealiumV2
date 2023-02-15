@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+  <test thread-count="5" name="Test_All">
+  <parameter name="browser" value="Chrome"></parameter>
+  	<groups>
+  		<run>
+ 			 <include name="Regression"></include>
+  		</run>
+  	</groups>
+    <classes>
+    	<class name="com.tealium.testcases.IndexPageTest"/>
+    	<class name="com.tealium.testcases.AccountCreationPageTest"/>
+   	    <class name="com.tealium.testcases.LoginPageTest"/>
+    	<class name="com.tealium.testcases.HomePageTest"/>
+     	<class name="com.tealium.testcases.SearchReasultPageTest"/>
+        <class name="com.tealium.testcases.AddToCartPageTest"/>
+        <class name="com.tealium.testcases.ShippingCartPageTest"/>  
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

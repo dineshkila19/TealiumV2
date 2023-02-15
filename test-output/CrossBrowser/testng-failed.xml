@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" name="Failed suite [CrossBrowser]" parallel="tests">
+  <test thread-count="3" name="CromeTest(failed)" parallel="tests">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="com.tealium.testcases.IndexPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="Readconfig"/>
+          <include name="tearDown"/>
+          <include name="verifyMyLogo"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- com.tealium.testcases.IndexPageTest -->
+    </classes>
+  </test> <!-- CromeTest(failed) -->
+</suite> <!-- Failed suite [CrossBrowser] -->

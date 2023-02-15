@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="CrossBrowser" parallel="tests" thread-count="3">
+  <test  name="CromeTest" >
+  	<parameter name="browser" value="Chrome"></parameter>
+    <classes>
+      <class name="com.tealium.testcases.IndexPageTest"/>
+    </classes>
+  </test> 
+  
+   <test name="FireFoxTest">
+  	<parameter name="browser" value="FireFox"></parameter>
+    <classes>
+      <class name="com.tealium.testcases.IndexPageTest"/>
+    </classes>
+  </test> 
+  
+   <test  name="IETest">
+  	<parameter name="browser" value="IE"></parameter>
+    <classes>
+      <class name="com.tealium.testcases.IndexPageTest"/>
+    </classes>
+  </test> 
+  
+</suite> 
